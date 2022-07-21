@@ -11,11 +11,11 @@ You would have to go through the codes to really understand the flow and how it 
 * Apart from the RN entry files, all the app code reside in root_directory/APP
 # Screenshots
 <p>
-<img src="https://github.com/addtek/reactnative_sports_betting_app/blob/master/APP/images/home.jpg" width="200px" style="display:block;"/>
- <img src="https://github.com/addtek/reactnative_sports_betting_app/blob/master/APP/images/oddschange.jpg" width="200px" style="display:block;"/>
- <img src="https://github.com/addtek/reactnative_sports_betting_app/blob/master/APP/images/livematch.jpg" width="200px" style="display:block;"/>
- <img src="https://github.com/addtek/reactnative_sports_betting_app/blob/master/APP/images/prematch.jpg" width="200px" style="display:block;"/>
- <img src="https://github.com/addtek/reactnative_sports_betting_app/blob/master/APP/images/betslip.jpg" width="200px" style="display:block;"/>
+<img src="https://github.com/prodev880110/sports-betting-react-native/blob/master/APP/images/home.jpg" width="200px" style="display:block;"/>
+ <img src="https://github.com/prodev880110/sports-betting-react-native/blob/master/APP/images/oddschange.jpg" width="200px" style="display:block;"/>
+ <img src="https://github.com/prodev880110/sports-betting-react-native/blob/master/APP/images/livematch.jpg" width="200px" style="display:block;"/>
+ <img src="https://github.com/prodev880110/sports-betting-react-native/blob/master/APP/images/prematch.jpg" width="200px" style="display:block;"/>
+ <img src="https://github.com/prodev880110/sports-betting-react-native/blob/master/APP/images/betslip.jpg" width="200px" style="display:block;"/>
  </p>
 
 # React-native version
